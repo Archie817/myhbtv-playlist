@@ -29,6 +29,8 @@ https://xingshan-live21.cjyun.org/10108/s10108-xingshanTV01.m3u8?auth_key=179873
 https://yuanan-live21.cjyun.org/10106/s10106-yatv.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-c00cceee047072f14bb028ac3236367a
 #EXTINF:-1 tvg-name="枝江综合" group-title="湖北地方", 枝江综合
 https://zhijiang-live21.cjyun.org/10120/s10120-zjtv.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-6cc081fb390454c2e4920aa5d42766ff
+#EXTINF:-1 tvg-name="秭归综合" group-title="湖北地方", 秭归综合
+https://zigui-live21.cjyun.org/10111/s10111-ZGTV1.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-fc032e0724906de59bac0fc30c676db3
 #EXTINF:-1 tvg-name="荆州垄上" group-title="湖北地方", 荆州垄上
 http://111.48.34.174/000000000000/PLTV/88888888/224/3221230560/1.m3u8
 #EXTINF:-1 tvg-name="荆州综合" group-title="湖北地方", 荆州综合
