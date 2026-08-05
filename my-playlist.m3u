@@ -20,8 +20,8 @@ https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
 #EXTINF:-1 tvg-name="宜昌旅游生活" group-title="湖北地方", 宜昌旅游生活
 http://111.48.34.167/000000000000/PLTV/88888888/224/3221230589/1.m3u8
 #EXTINF:-1 tvg-name="长阳综合" group-title="湖北地方", 长阳综合
-https://changyang-live21.cjyun.org/10114/s10114-cy1t.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-69b7adceccbc5ea8f2cc6f34b34171af
-#EXTINF:-1 tvg-id="兴山综合" tvg-name="兴山综合" group-title="湖北地方",兴山综合
+#EXTINF:-1 tvg-id="10108" tvg-name="兴山综合" group-title="湖北地方",兴山综合
+https://xingshan-live21.cjyun.org/10108/s10108-xingshanTV01.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-20fe9084458244a52929967680566a22#http-referer=https://www.cjyun.org/&http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.cjyun.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://xingshan-live21.cjyun.org/10108/s10108-xingshanTV01.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfa7dfd677b8f3-0-20fe9084458244a52929967680566a22
