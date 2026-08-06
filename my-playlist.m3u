@@ -57,9 +57,9 @@ rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000632
 
 # ==================== 黄石 ====================
 #EXTINF:-1 tvg-name="黄石新闻综合" group-title="地方频道", 黄石新闻综合
+https://huangshifb-live21.cjyun.org/10200/s10200-huangshitv01.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-881db406245fb25ab51e962f0b5b23a1
 http://111.48.34.157/000000000000/PLTV/88888888/224/3221230556/1.m3u8
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000497
-https://huangshifb-live21.cjyun.org/10200/s10200-huangshitv01.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-881db406245fb25ab51e962f0b5b23a1
 
 #EXTINF:-1 tvg-name="黄石都市" group-title="地方频道", 黄石都市
 http://111.48.34.157/000000000000/PLTV/88888888/224/3221230558/1.m3u8
