@@ -18,7 +18,6 @@ rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000438
 
 #EXTINF:-1 tvg-name="宜昌旅游生活" group-title="宜昌地方频道", 宜昌旅游生活
 https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
-http://111.48.34.157/000000000000/PLTV/88888888/224/3221230589/1.m3u8
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000440
 
 #EXTINF:-1 tvg-name="秭归综合" group-title="宜昌地方频道" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" http-referer="https://www.cjyun.org",秭归综合
