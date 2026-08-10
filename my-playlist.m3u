@@ -16,7 +16,7 @@ https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
 http://111.48.34.157/000000000000/PLTV/88888888/224/3221230587/1.m3u8
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000438
 
-#EXTINF:-1 tvg-name="宜昌旅游生活" group-title="宜昌地方频道", 宜昌旅游生活
+#EXTINF:-1 tvg-name="宜昌生活" group-title="宜昌地方频道", 宜昌生活
 https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000440
 
