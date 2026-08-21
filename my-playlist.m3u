@@ -1,15 +1,5 @@
 #EXTM3U
 
-# ==================== 宜昌广播 ====================
-#EXTINF:-1 tvg-name="宜昌新闻综合广播" tvg-logo="https://raw.githubusercontent.com/Archie817/myhbtv-playlist/main/ycxwzhgb.jpeg" group-title="宜昌广播", 宜昌新闻综合广播
-https://liveplay.ycrmt.cn/fm/xwt.m3u8
-
-#EXTINF:-1 tvg-name="宜昌音乐生活广播" tvg-logo="https://raw.githubusercontent.com/Archie817/myhbtv-playlist/main/ycyygb.jpeg" group-title="宜昌广播", 宜昌音乐生活广播
-https://liveplay.ycrmt.cn/fm/qct.m3u8
-
-#EXTINF:-1 tvg-name="宜昌交通广播" tvg-logo="https://raw.githubusercontent.com/Archie817/myhbtv-playlist/main/ycjtgb.jpeg" group-title="宜昌广播", 宜昌交通广播
-https://liveplay.ycrmt.cn/fm/jtt.m3u8
-
 # ==================== 宜昌地方频道 ====================
 #EXTINF:-1 tvg-name="宜昌综合" tvg-logo="https://raw.githubusercontent.com/Archie817/myhbtv-playlist/main/yczh.png" group-title="宜昌地方频道", 宜昌综合
 https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
@@ -38,3 +28,13 @@ https://yuanan-live21.cjyun.org/10106/s10106-yatv.m3u8?auth_key=1798732799-ced13
 
 #EXTINF:-1 tvg-name="枝江综合" tvg-logo="https://raw.githubusercontent.com/Archie817/myhbtv-playlist/main/zjzh.jpg" group-title="宜昌地方频道" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" http-referer="https://www.cjyun.org",枝江综合
 https://zhijiang-live21.cjyun.org/10120/s10120-zjtv.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-6cc081fb390454c2e4920aa5d42766ff
+
+# ==================== 宜昌广播 ====================
+#EXTINF:-1 tvg-name="宜昌新闻综合广播" tvg-logo="https://raw.githubusercontent.com/Archie817/myhbtv-playlist/main/ycxwzhgb.jpeg" group-title="宜昌广播", 宜昌新闻综合广播
+https://liveplay.ycrmt.cn/fm/xwt.m3u8
+
+#EXTINF:-1 tvg-name="宜昌音乐生活广播" tvg-logo="https://raw.githubusercontent.com/Archie817/myhbtv-playlist/main/ycyygb.jpeg" group-title="宜昌广播", 宜昌音乐生活广播
+https://liveplay.ycrmt.cn/fm/qct.m3u8
+
+#EXTINF:-1 tvg-name="宜昌交通广播" tvg-logo="https://raw.githubusercontent.com/Archie817/myhbtv-playlist/main/ycjtgb.jpeg" group-title="宜昌广播", 宜昌交通广播
+https://liveplay.ycrmt.cn/fm/jtt.m3u8
