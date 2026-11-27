@@ -1,0 +1,67 @@
+# ── 阿里系（通义/百炼/DashScope/Qoder/魔搭）──
+DOMAIN,bailian.console.aliyun.com
+DOMAIN,dashscope.aliyuncs.com
+DOMAIN,qodercn-jb.oss-cn-hangzhou.aliyuncs.com
+DOMAIN-SUFFIX,qianwen.aliyun.com
+DOMAIN-SUFFIX,qianwen.com
+DOMAIN-SUFFIX,tongyi.aliyun.com
+DOMAIN-SUFFIX,tongyi.com
+DOMAIN-SUFFIX,qoder.cn
+DOMAIN-SUFFIX,qoder.com.cn
+DOMAIN-SUFFIX,modelscope.cn
+
+# ── 腾讯系（混元/元宝/元器）──
+DOMAIN,api.hunyuan.cloud.tencent.com
+DOMAIN,hunyuan.tencentcloudapi.com
+DOMAIN-SUFFIX,hunyuan.tencent.com
+DOMAIN-SUFFIX,yuanbao.tencent.com
+DOMAIN-SUFFIX,yuanqi.tencent.com
+
+# ── 字节系（火山方舟/扣子Coze/MarsCode/Trae国内）──
+DOMAIN,ark.cn-beijing.volces.com
+DOMAIN-SUFFIX,coze.cn
+DOMAIN-SUFFIX,cozebaas.cn
+DOMAIN-SUFFIX,cozefn.cn
+DOMAIN-SUFFIX,cozeide.cn
+DOMAIN-SUFFIX,marscode.cn
+DOMAIN-SUFFIX,marscode.com.cn
+DOMAIN-SUFFIX,trae.cn
+DOMAIN-SUFFIX,trae.com.cn
+DOMAIN-SUFFIX,mcbaas.work
+DOMAIN-SUFFIX,mcdemo.show
+DOMAIN-SUFFIX,mcprev.cn
+DOMAIN-SUFFIX,lf3-static.bytednsdoc.com
+
+# ── 百度系（文心/千帆/一言）──
+DOMAIN,ernie.baidu.com
+DOMAIN,qianfan.baidubce.com
+DOMAIN-SUFFIX,yiyan.baidu.com
+
+# ── 智谱 AI ──
+DOMAIN-SUFFIX,bigmodel.cn
+DOMAIN-SUFFIX,chatglm.cn
+DOMAIN-SUFFIX,zhipuai.cn
+DOMAIN-SUFFIX,zhipucn.com
+DOMAIN-SUFFIX,z.ai
+
+# ── 月之暗面 Kimi ──
+DOMAIN-SUFFIX,kimi.ai
+DOMAIN-SUFFIX,kimi.com
+DOMAIN-SUFFIX,moonshot.cn
+
+# ── MiniMax（开放平台/海螺AI/星野）──
+DOMAIN,api.minimaxi.com
+DOMAIN-SUFFIX,hailuoai.com
+DOMAIN-SUFFIX,xingyeai.com
+
+# ── 阶跃星辰 & 小米 ──
+DOMAIN-SUFFIX,stepfun.com
+DOMAIN-SUFFIX,xiaoaiassist.com
+DOMAIN-SUFFIX,xiaomimimo.com
+
+# ── 国内算力与模型聚合平台 ──
+DOMAIN-SUFFIX,ppio.cn
+DOMAIN-SUFFIX,siliconflow.cn
+
+# ── 其他 .cn 域名 ──
+DOMAIN-SUFFIX,yoma.cn
